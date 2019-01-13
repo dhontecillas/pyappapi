@@ -1,0 +1,7 @@
+appdirs==1.4.0
+docopt==0.6.2
+packaging==16.8
+pycrypto==2.6.1
+pyparsing==2.1.10
+requests==2.13.0
+six==1.10.0
